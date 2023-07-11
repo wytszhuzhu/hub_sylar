@@ -31,7 +31,6 @@
 example demo resnet18
 
 | model             | size |
-| :---------------- | ---- |
 | resnet18          | 44M  |
 | resnet8_quantint8 | 11M  |
 
